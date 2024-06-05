@@ -1,0 +1,10 @@
+.product_list {
+  width: 100%;
+  padding: 50px 10%;
+  background-color: lightgray;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  column-gap: 50px;
+  row-gap: 20px;
+}
